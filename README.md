@@ -1,6 +1,6 @@
 ### Oiii! Eu sou o Kenji
 
-- 🔭 Estou trabalhando com Javascript e Typescript - início de carreira
+- 🔭 Atualmente trabalhando com Javascript e Typescript - início de carreira
 - 🌱 Estou estudando Javascript, Typescript, HTML e CSS
 
 <div align="left">
