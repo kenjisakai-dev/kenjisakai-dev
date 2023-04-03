@@ -1,7 +1,7 @@
 ### Oiii! Eu sou o Kenji
 
-- 🔭 Atualmente trabalhando com Javascript e Typescript - início de carreira
-- 🌱 Estou estudando Javascript, Typescript, HTML e CSS
+- 🔭 Atualmente trabalhando com Javascript - início de carreira
+- 🌱 Estou estudando Javascript, Node e SQL
 
 <div align="left">
   <a href="https://github.com/rafaballerini">
