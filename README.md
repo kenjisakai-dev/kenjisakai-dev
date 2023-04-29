@@ -1,6 +1,6 @@
 ### Oiii! Eu sou o Kenji
 
-- 🔭 Atualmente trabalhando com Javascript - início de carreira
+- 🔭 Atualmente trabalho com Javascript e Node - início de carreira
 - 🌱 Estou estudando Javascript, Node e SQL
 
 <div align="left">
