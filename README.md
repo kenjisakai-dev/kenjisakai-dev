@@ -19,7 +19,7 @@
 
 ### Contacts
 <div>
-  <a href="https://linkdin.com/in/kenji-sakai">
+  <a href="https://linkedin.com/in/kenji-sakai-4bb86b251">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </div>
