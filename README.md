@@ -1,8 +1,8 @@
 ### Olá! Meu nome é Kenji
 
 - 🔭 Atualmente tenho trabalhado com JavaScript, Node e TypeScript
-- 🏢 Estou no início de carreira como estagiário na área de desenvolvimento atuando com backend na CSU Digital
-- 🎒 Atualmente estou no curso de ADS e estudando por por conta própria algumas linguagem de programação e frameworks
+- 🏢 Estou no início de carreira como estagiário na área de desenvolvimento na CSU Digital atuando com no backend
+- 🎒 Atualmente estou cursando ADS e estudando por por conta própria algumas linguagens e frameworks
 - 🌱 Estou estudando JavaScript, Node, TypeScript, NestJS, SQL
 
 <div align="left">
