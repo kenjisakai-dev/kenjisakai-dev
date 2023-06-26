@@ -1,7 +1,9 @@
-### Oiii! Eu sou o Kenji
+### Olá! Meu nome é Kenji
 
-- 🔭 Atualmente trabalho com Javascript e Node - início de carreira
-- 🌱 Estou estudando Javascript, Node e SQL
+- 🔭 Atualmente tenho trabalhado com JavaScript, Node e TypeScript
+- 🏢 Estou no início de carreira como estagiário na área de desenvolvimento atuando com backend na CSU Digital
+- 🎒 Atualmente estou no curso de ADS e estudando por por conta própria algumas linguagem de programação e frameworks
+- 🌱 Estou estudando JavaScript, Node, TypeScript, NestJS, SQL
 
 <div align="left">
   <a href="https://github.com/rafaballerini">
