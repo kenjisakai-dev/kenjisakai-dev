@@ -2,7 +2,7 @@
 - 🔭 Atualmente trabalho com JavaScript, Node e TypeScript
 - 🏢 Estou iniciando minha carreira na área de desenvolvimento na CSU Digital trabalhando com backend
 - 🎒 Atualmente estou estudando ADS e fazendo algumas cursos de JavaScritp | TypeScript | NodeJS e frameworks
-- 🌱 Estou estudando JavaScript, Node, TypeScript, NestJS, SQL e NestJS
+- 🌱 Estou estudando JavaScript, Node, TypeScript, NestJS e SQL
 
 ### Tecnologias
 <div>
