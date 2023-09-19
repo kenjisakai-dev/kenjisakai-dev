@@ -1,4 +1,4 @@
-### Hi! my name is Kenji
+### Oi! meu nome é Kenji
 - 🔭 Trabalho com JavaScript, Node e TypeScript
 - 🏢 Início de carreira na área de desenvolvimento atuando com backend
 - 🎒 Estudando ADS e alguns cursos de linguagem de programação e frameworks
