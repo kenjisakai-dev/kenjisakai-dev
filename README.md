@@ -1,8 +1,7 @@
 ### Oi! meu nome é Kenji
-- 🔭 Trabalho com JavaScript, Node e TypeScript
+- 🔭 Trabalhando com JavaScript, NodeJS e TypeScript
 - 🏢 Início de carreira na área de desenvolvimento atuando com backend
-- 🎒 Estudando ADS e alguns cursos de linguagem de programação e frameworks
-- 🌱 Estou estudando JavaScript, Node, TypeScript, NestJS e SQL
+- 🌱 Cursando ADS e Estudando linguagens de programação e frameworks
 
 ### Tecnologias
 <div>
