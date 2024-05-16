@@ -1,8 +1,3 @@
-### Oi! meu nome é Kenji
-- 🔭 Trabalhando com JavaScript, NodeJS e TypeScript
-- 🏢 Início de carreira na área de desenvolvimento atuando com backend
-- 🌱 Cursando ADS e Estudando linguagens de programação e frameworks
-
 ### Tecnologias
 <div>
   <img align="center" alt="Kenji-Js" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
