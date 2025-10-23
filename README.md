@@ -1,6 +1,6 @@
 ### Tecnologias
 <div>
-  <img align="center" alt="ícone node" height="60" src="[https://icons8.com/icon/hsPbhkOH4FMe/node-js]">
+  <img align="center" alt="ícone node" height="60" src="https://img.icons8.com/fluency/48/node-js.png">
   <img align="center" alt="ícone TS" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 </div>
 
