@@ -1,14 +1,19 @@
+## Kenji Sakai
+- Hoje trabalhando com Backend e Frontend
+
 ### Tecnologias
 <div>
-  <img align="center" alt="ícone node" height="60" src="https://img.icons8.com/fluency/48/node-js.png">
-  <img align="center" alt="ícone TS" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="NodeJS" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="TS" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="CSharp" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="React" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
 
 ### Meus status
 <div>
   <a href="https://github.com/kenjisakai-dev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenjisakai-dev&layout=compact&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kenjisakai-dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=kenjisakai-dev&custom_title=GitHub%20Stats&show_icons=true&theme=dark"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs?username=kenjisakai-dev&layout=compact&langs_count=6&theme=dark"/>
 </div>
 
 ### Contatos
